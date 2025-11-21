@@ -10,6 +10,8 @@ namespace exemplos
     {
         static void Main(string[] args)
         {
+            minhaClasse myClasse = new minhaClasse();   
+            myClasse.ShowMenu();
         }
     }
 }

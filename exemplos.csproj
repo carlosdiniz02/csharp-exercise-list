@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="classes\Bhaskara.cs" />
+    <Compile Include="classes\BignSmal.cs" />
+    <Compile Include="classes\Fibonacci.cs" />
+    <Compile Include="classes\EvenOdd.cs" />
+    <Compile Include="minhaClasse.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
